@@ -1,4 +1,7 @@
 note2.txt 123
+stash 1
 note2.txt 456
 
 第二次
+stash 2
+note2 stash 1
